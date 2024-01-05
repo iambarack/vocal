@@ -1,0 +1,14 @@
+{
+  "name": "vosh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon test/main",
+    "proc": "nodemon test/console",
+    "dev": "nodemon ."
+  },
+  "author": "windyskies",
+  "license": "MIT",
+  "type": "module"
+}
